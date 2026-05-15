@@ -1,12 +1,12 @@
 <div align="center">
 
-# ⚡ quickfake ⚡
+# ⚡ Assets ⚡
 
 ### Jhon
 
 QuickFake - Mockup Generator Professional
 
-![GitHub stars](https://img.shields.io/github/stars/CusJhon/quickfake?style=for-the-badge&color=cyan)
+![GitHub stars](https://img.shields.io/github/stars/CusJhon/Assets?style=for-the-badge&color=cyan)
 ![License](https://img.shields.io/badge/License-MIT-cyan?style=for-the-badge)
 ![Version](https://img.shields.io/badge/version-1.0.0-purple?style=for-the-badge)
 
